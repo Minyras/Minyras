@@ -18,13 +18,7 @@
   <img width="50%"   src="https://github-readme-streak-stats.herokuapp.com/?user=Minyras&theme=dark&background=000000&text_color=ffffff" alt="Minyras" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Minyras&theme=dark&no-bg=true&margin-w=15&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Minyras" />
-  </a>
-</p>
-
-
-
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minyras&theme=dark&hide_border=false" alt="streak stats" />
+  </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
