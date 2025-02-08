@@ -17,5 +17,5 @@
 <p>
   <img width="50%"   src="https://github-readme-streak-stats.herokuapp.com/?user=Minyras&theme=dark&background=000000&text_color=ffffff" alt="Minyras" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=iamperii&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=Minyras&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
