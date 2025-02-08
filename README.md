@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minyras&theme=dark&background=000000&text_color=ffffff" alt="Minyras" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minyras&theme=dark&background=000000&text_color=ffffff" alt="Minyras" />
 </p>
 
 <p align="center">
