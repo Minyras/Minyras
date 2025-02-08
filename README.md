@@ -13,7 +13,7 @@
   <img align="center" height="200px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Minyras&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&card_width=400" alt="Minyras" />
 </p>
 
-<p align="center">
+<p >
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Minyras&theme=dark&background=000000&text_color=ffffff" alt="Minyras" />
 </p>
 
