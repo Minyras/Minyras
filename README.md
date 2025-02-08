@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: <div align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=darkgreen"  /></div>
 🔭 I’m currently working on: Frontend development projects, improving my skills in React and Redux.<br>🌱 I’m currently learning: Advanced JavaScript concepts, performance optimization, and best practices in frontend development.<br>💬 Ask me about: HTML, CSS, JavaScript, React, Redux, and frontend development techniques.
 
 
