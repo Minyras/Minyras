@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Minure</h1>
+<div align="center" style="background-image: url('https://i.ibb.co/your-background.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px;">
+  <h1>Hi 👋, I'm Minure</h1>
 
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Redux+Specialist;JavaScript+Enthusiast;Building+Clean+UI+%26+Scalable+Apps" />
-</p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=green" />
-</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=green" style="margin-top: 15px;" />
+</div>
 
 ---
 
