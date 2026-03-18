@@ -1,46 +1,39 @@
 <h1 align="center">Hi 👋, I'm Minure</h1>
-<h3 align="center">Frontend Developer | React & JavaScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=darkgreen" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Redux+Specialist;JavaScript+Enthusiast;Building+Clean+UI+%26+Scalable+Apps" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=green" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate **Frontend Developer**
-- 🔭 Currently building **real-world React projects**
+- 💻 Frontend Developer focused on **React ecosystem**
+- 🔭 Building **real-world scalable projects**
 - 🌱 Learning **Advanced JavaScript & Performance Optimization**
-- ⚡ Focused on writing **clean, scalable & maintainable code**
-- 🎯 Goal: Become a **strong React Engineer**
+- ⚡ Writing **clean, maintainable & performant code**
+- 🎯 Goal: Become a **top-tier React Engineer**
 
 ---
 
-## 🧠 What I Know
-- ⚡ JavaScript (Advanced concepts, async, performance)
-- ⚛️ React & Redux (state management, architecture)
-- 🎨 HTML, CSS, SASS, Bootstrap
-- 🔧 Git, GitHub, GitLab
-- 🌐 Basic Backend: Node.js, Express
-- 🗄️ MySQL
-
----
-
-## 🌍 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/minura-seyidova/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:minure.seyidova@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
+## 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,html,css,sass,bootstrap,git,github,gitlab,mysql,cpp" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,html,css,sass,bootstrap,git,github,gitlab,mysql,cpp" />
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/minura-seyidova/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:minure.seyidova@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -58,12 +51,12 @@
 
 ---
 
-## 🏆 Achievements
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Minyras&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://raw.githubusercontent.com/Minyras/Minyras/output/snake.svg" />
 </p>
 
 ---
 
 ## ✨ Fun Fact
-> I enjoy turning complex problems into simple, beautiful UI ✨
+> I turn complex ideas into simple and beautiful UI ✨
