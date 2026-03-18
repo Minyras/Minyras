@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://i.ibb.co/your-background.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px;">
+<div align="center" style="background-image: url('[https://i.ibb.co/your-background.jpg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Flinkedin-background-programming%2F3&ved=0CBYQjRxqFwoTCICV04_xqJMDFQAAAAAdAAAAABAI&opi=89978449)'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px;">
   <h1>Hi 👋, I'm Minure</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Redux+Specialist;JavaScript+Enthusiast;Building+Clean+UI+%26+Scalable+Apps" />
