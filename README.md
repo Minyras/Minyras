@@ -53,7 +53,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Minyras/Minyras/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Minyras/Minyras/output/snake.svg" />
 </p>
 
 ---
