@@ -1,5 +1,4 @@
-<div align="center" style="background-image: url('https://github.com/user-attachments/assets/dda547d6-9251-4a7e-af1c-cda4933222cc
-'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px;">
+<div align="center" style="background-image: url('https://github.com/Minyras/Minyras/raw/main/1b1b73143d5c509c4c60089337bd507f.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px;">
   <h1>Hi 👋, I'm Minure</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Redux+Specialist;JavaScript+Enthusiast;Building+Clean+UI+%26+Scalable+Apps" />
