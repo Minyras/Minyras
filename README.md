@@ -1,15 +1,14 @@
 <p align="center">
   <img src="https://i.hizliresim.com/ehzgwaz.png" width="100%" height="210px" />
 </p>
+
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=green" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Redux+Specialist;JavaScript+Enthusiast;Building+Clean+UI+%26+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Expert+in+Progress;I+Love+Clean+Code;Always+Learning+New+Things" />
 </p>
-
-
 
 ---
 
@@ -42,7 +41,6 @@
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Minyras&show_icons=true&theme=tokyonight" />
   <img width="48%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minyras&layout=compact&theme=tokyonight" />
@@ -56,7 +54,14 @@
 
 # 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/Minyras/Minyras/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Minyras/Minyras/output/snake.svg" />
+</p>
+
+---
+
+# 😂 Dev Joke
+<p align="center">
+  <img width="50%" src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
 
 ---
