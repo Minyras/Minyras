@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://i.hizliresim.com/2w7kfzt.jpg" width="100%" height="200px" />
+  <img src="https://i.hizliresim.com/ehzgwaz.png" width="100%" height="210px" />
 </p>
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=green" />
 </p>
-<h1 align="center">Hi, I'm Minura</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Redux+Specialist;JavaScript+Enthusiast;Building+Clean+UI+%26+Scalable+Apps" />
