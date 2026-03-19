@@ -1,14 +1,20 @@
-<div align="center" style="background-image: url('https://i.hizliresim.com/2w7kfzt.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px;">
-  <h1>Hi 👋, I'm Minure</h1>
+<p align="center">
+  <img src="https://i.hizliresim.com/2w7kfzt.jpg" width="100%" height="200px" />
+</p>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=green" />
+</p>
+<h1 align="center">Hi, I'm Minura</h1>
 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Redux+Specialist;JavaScript+Enthusiast;Building+Clean+UI+%26+Scalable+Apps" />
+</p>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Minyras.Minyrass&right_color=green" style="margin-top: 15px;" />
-</div>
+
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 - 💻 Frontend Developer focused on **React ecosystem**
 - 🔭 Building **real-world scalable projects**
 - 🌱 Learning **Advanced JavaScript & Performance Optimization**
@@ -17,14 +23,14 @@
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,html,css,sass,bootstrap,git,github,gitlab,mysql,cpp" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/minura-seyidova/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
@@ -36,11 +42,11 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Minyras&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minyras&layout=compact&theme=tokyonight" />
+  <img width="48%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minyras&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -49,12 +55,12 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/Minyras/Minyras/output/snake.svg" />
 </p>
 
 ---
 
-## ✨ Fun Fact
+# ✨ Fun Fact
 > I turn complex ideas into simple and beautiful UI ✨
