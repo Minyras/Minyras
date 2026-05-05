@@ -13,11 +13,11 @@
 ---
 
 # 🚀 About Me
-- 💻 Frontend Developer focused on **React ecosystem**
-- 🔭 Building **real-world scalable projects**
-- 🌱 Learning **Advanced JavaScript & Performance Optimization**
-- ⚡ Writing **clean, maintainable & performant code**
-- 🎯 Goal: Become a **top-tier React Engineer**
+💻 Frontend Developer | **JavaScript, TypeScript, React, Vue & Modern UI**  
+🔭 Building **scalable and responsive web applications**  
+🌱 Learning **advanced frontend concepts and performance optimization**  
+⚡ Focused on **clean, maintainable and user-friendly code**  
+🎯 Goal: Become a **top-tier Frontend Engineer**  
 
 ---
 
