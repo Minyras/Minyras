@@ -40,14 +40,20 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Minyras&show_icons=true&theme=tokyonight" />
-  <img width="48%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minyras&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Minyras&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Minyras&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minyras&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Minyras&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
